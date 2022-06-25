@@ -1,0 +1,6 @@
+export { ReactComponent as Explore } from './explore.svg'
+export { ReactComponent as Blog } from './blog.svg'
+export { ReactComponent as Mobile } from './mobile.svg'
+export { ReactComponent as News } from './news.svg'
+export { ReactComponent as BecomeAMember } from './becomeAMember.svg'
+export { ReactComponent as WhiteBrandLogo } from './Logo/nplogowhite.svg' 
